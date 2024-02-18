@@ -1,6 +1,6 @@
 # About Me
 
-Hey there! 👋 I'm Ilya Kotomin, a .NET full stack developer with a passion for creating mods for games.
+Hey there! 👋 I'm Ilya Kotomin, a .NET full stack developer with a passion for creating web apps and mods for games.
 
 ## Skills
 
